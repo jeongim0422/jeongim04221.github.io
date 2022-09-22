@@ -24,28 +24,37 @@
 
 - 이미지
 
-![게임 더 슈라우디드 아일(The Shrouded Isle)의 가문이 가진 죄악과 미덕](./img/image_1.png)
+![게임 더 슈라우디드 아일(The Shrouded Isle)의 가문이 가진 죄악과 미덕](./img/image_1.jpg)
 
 ▲ 게임 더 슈라우디드 아일(The Shrouded Isle)의 가문이 가진 죄악과 미덕
 
-![설명글](./img/image_2.png)
+![인물의 대사가 나타나고, 주인공이 여러 선택지 중 하나를 고른다.](./img/image_2.jpg)
 
 ▲ 인물의 대사가 나타나고, 주인공이 여러 선택지 중 하나를 고른다.
 
-![설명글](./img/image_3.png)
+![선택지에 따라 주인공과 관련 인물이 가진 속성이 변화한다.](./img/image_3.jpg)
 
 ▲ 선택지에 따라 주인공과 관련 인물이 가진 속성이 변화한다.
 
 - 동영상
 
-[![설명](./img/image_video.jpg)](https://www.youtube.com/watch?v=28KYi1AhSME)
+[![더 슈라우디드 아일(The Shrouded Isle)](./img/image_video.jpg)](https://www.youtube.com/watch?v=28KYi1AhSME)
 
 게임 더 슈라우디드 아일(The Shrouded Isle)은 시뮬레이션 게임으로 주인공이 죄악을 속죄하는 내용을 담고 있다. 각 가문은 죄악과 미덕을 하나씩 가지며 주인공이 어느 가문을 선택했느냐에 따라 해당하는 죄악이나 미덕에 영향을 받는다. 또한 플레이어의 행동에 따라 각기 다른 여러 엔딩이 등장한다.
 
 # [대표 이미지]
 
+![선택 전 이미지](./img/main_image_1.jpg)
 
+▲ 선택 전 이미지
 
+![선택 후 이미지](./img/main_image_2.jpg)
+
+▲ 선택 후 이미지
+
+![플레이어 스탯창 이미지](./img/main_image_3.jpg)
+
+▲ 플레이어 스탯창 이미지
 
 
 # [컨셉 & 대표이미지 기반 작품묘사]
