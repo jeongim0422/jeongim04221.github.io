@@ -38,7 +38,7 @@
 
 - 동영상
 
-[![더 슈라우디드 아일(The Shrouded Isle)](./img/image_video.jpg)](https://www.youtube.com/watch?v=28KYi1AhSME)
+[![더 슈라우디드 아일(The Shrouded Isle) 트레일러 영상](./img/image_video.jpg)](https://www.youtube.com/watch?v=28KYi1AhSME)
 
 게임 더 슈라우디드 아일(The Shrouded Isle)은 시뮬레이션 게임으로 주인공이 죄악을 속죄하는 내용을 담고 있다. 각 가문은 죄악과 미덕을 하나씩 가지며 주인공이 어느 가문을 선택했느냐에 따라 해당하는 죄악이나 미덕에 영향을 받는다. 또한 플레이어의 행동에 따라 각기 다른 여러 엔딩이 등장한다.
 
