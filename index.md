@@ -234,27 +234,27 @@
 
 |연번|오브젝트 이름(영문이름)|오브젝트 이미지|
 |:----:|:----:|:----:|
-||시작하기(Button_start),<br>이어하기(Button_Working),<br>설정(Button_Setting),<br>종료하기(Button_Quit),<br>계속하기(Button_Continue),<br>저장하기(Button_Save),<br>불러오기(Slot_Import),<br>돌아가기(Button_Return)||
-||시작 배경(Background_Opening)||
-||복도 배경(Background_Aisle)|복도의 전경이 보임.|
-||방 배경(Background_Room)|방의 전경이 보임.|
-||거실 배경(Background_FrontRoom)|거실의 전경이 보임.|
+||시작하기(Button_start),<br>이어하기(Button_Working),<br>설정(Button_Setting),<br>종료하기(Button_Quit),<br>계속하기(Button_Continue),<br>저장하기(Button_Save),<br>불러오기(Slot_Import),<br>돌아가기(Button_Return)|(./img/Button_Image.png)|
+||시작 배경(Background_Opening)|(./img/Background_Opening_Image.jpg)|
+||복도 배경(Background_Aisle)|(./img/Background_Aisle_Image.jpg)|
+||방 배경(Background_Room)|(./img/Background_Room_Image.jpg)|
+||거실 배경(Background_FrontRoom)|(./img/Background_FrontRoom_Image.jpg)|
 ||에디프(Character_Pride)|붉은 머리 남성|
 ||디어(Character_Greed)|보라 머리 여성|
 ||이브(Character_Envy) |담청 머리 여성|
 ||타르(Character_Wrath)|주황 머리 남성|
 ||이노(Character_Gluttony|노란 머리 여성|
 ||터스(Character_Sloth)|감청 머리 남성|
-||대화창(Screen_Chat)||
-||선택지(Button_Choice)||
-||설정_2(Button_Setting_Image)||
-||날짜(Progress_Day)||
-||저장된 슬롯(Slot_Saved),<br>빈 슬롯(Slot_None)||
-||속죄 진행도(Progress_Atonement)||
-||겸손-면죄 진행도(Progress_n)||
-||속죄 수치(Progress_Atonement_Value)||
-||겸손-면죄 수치(Progress_n_Value)||
-||배경음(Sound_Background),<br>효과음(Sound_Effect)||
+||대화창(Screen_Chat)|(./img/Slot_Image.png)|
+||선택지(Button_Choice)|(./img/Slot_Image.png)|
+||설정_2(Button_Setting_Image)|(./img/Button_Setting_Image.png)|
+||날짜(Progress_Day)|(./img/Progress_Day_Image.png)|
+||저장된 슬롯(Slot_Saved),<br>빈 슬롯(Slot_None)|(./img/Slot_Image.png)|
+||속죄 진행도(Progress_Atonement)|(./img/Progress_Image.png)|
+||겸손-면죄 진행도(Progress_n)|(./img/Progress_Image.png)|
+||속죄 수치(Progress_Atonement_Value)|(./img/Progress_Image.png)|
+||겸손-면죄 수치(Progress_n_Value)|(./img/Progress_Image.png)|
+||배경음(Sound_Background),<br>효과음(Sound_Effect)|(./img/Sound_Image.png)|
 
 <br>
 <br>
