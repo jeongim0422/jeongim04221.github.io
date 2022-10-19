@@ -176,7 +176,7 @@
 
 <br>
 
-플레이어는 알 수 없는 장소에서 낯선 이들과 함께 눈을 뜬다. 대화를 통해 플레이어는 이들이 과거의 기억을 잊었으며, 본인만이 과거를 기억하고 있음을 알게 된다. 이후 플레이어는 누군가에게 그들을 속죄시키라는 명령과 함께, 어떠한 상황에서든 자신의 의견을 행사할 수 있는 권리를 받게 된다.
+주인공은 알 수 없는 장소에서 눈을 뜨고, 이해하기 힘든 문장이 적혀 있는 쪽지를 발견한다. 이후 주인공은 다른 이들과 만나 대화를 나눈다. 이후 주인공은 쪽지를 통해 본인이 다른 이들을 면죄해야 함을 알게 된다.
 
 <br>
 
@@ -259,7 +259,7 @@
 |16|쪽지(Item_Note)|<img src="./img/Item_Note_Image.png" width="150px" height="200px" title="쪽지"/>|
 |17|면죄부(Item_Indulgence)|<img src="./img/Item_Indulgence_Image.png" width="50px" height="50px" title="면죄부"/>|
 |18|저장된 슬롯(Slot_Saved),<br>빈 슬롯(Slot_None)|<img src="./img/Slot_Image.png" width="300px" height="70px" title="슬롯"/>(예시)|
-|19|속죄 진행도(Progress_Atonement)|<img src="./img/Progress_Image.jpg" width="300px" height="150px" title="속죄 진행도"/>|
+|19|속죄 진행도(Progress_Atonement)|<img src="./img/Progress_Image.png" width="300px" height="150px" title="속죄 진행도"/>|
 |21|겸손-면죄 진행도(Progress_n)|<img src="./img/Progress_Image.png" width="300px" height="30px" title="겸손-면죄 진행도"/>|
 |22|속죄 수치(Progress_Atonement_Value)|<img src="./img/Progress_Image.png" width="300px" height="30px" title="속죄 수치"/>|
 |23|겸손-면죄 수치(Progress_n_Value)|<img src="./img/Progress_Image.png" width="300px" height="30px" title="겸손-면죄 수치"/>|
