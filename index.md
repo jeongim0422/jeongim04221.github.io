@@ -234,27 +234,28 @@
 
 |연번|오브젝트 이름(영문이름)|오브젝트 이미지|
 |:----:|:----:|:----:|
-||시작하기(Button_start),<br>이어하기(Button_Working),<br>설정(Button_Setting),<br>종료하기(Button_Quit),<br>계속하기(Button_Continue),<br>저장하기(Button_Save),<br>불러오기(Slot_Import),<br>돌아가기(Button_Return)|<img src="./img/Button_Image.png" width="300px" height="200px" title="버튼 이미지"/>|
-||시작 배경(Background_Opening)|<img src="./img/Background_Opening_Image.jpg" width="300px" height="150px" title="시작 배경"/>|
-||복도 배경(Background_Aisle)|<img src="./img/Background_Aisle_Image.jpg" width="300px" height="150px" title="복도 배경"/>|
-||방 배경(Background_Room)|<img src="./img/Background_Room_Image.jpg" width="300px" height="150px" title="방 배경"/>|
-||거실 배경(Background_FrontRoom)|<img src="./img/Background_FrontRoom_Image.jpg" width="300px" height="150px" title="거실 배경"/>|
-||에디프(Character_Pride)|붉은 머리 남성|
-||디어(Character_Greed)|보라 머리 여성|
-||이브(Character_Envy) |담청 머리 여성|
-||타르(Character_Wrath)|주황 머리 남성|
-||이노(Character_Gluttony|노란 머리 여성|
-||터스(Character_Sloth)|감청 머리 남성|
-||대화창(Screen_Chat)|<img src="./img/Slot_Image.png" width="300px" height="100px" title="대화창"/>(예시)|
-||선택지(Button_Choice)|<img src="./img/Slot_Image.png" width="300px" height="50px" title="선택지"/>(예시)|
-||설정_2(Button_Setting_Image)|<img src="./img/Button_Setting_Image.png" width="50px" height="50px" title="거실 배경"/>(예시)|
-||날짜(Progress_Day)|<img src="./img/Background_FrontRoom_Image.jpg" width="300px" height="150px" title="설정_2"/>|
-||저장된 슬롯(Slot_Saved),<br>빈 슬롯(Slot_None)|<img src="./img/Slot_Image.png" width="300px" height="70px" title="슬롯"/>(예시)|
-||속죄 진행도(Progress_Atonement)|<img src="./img/Background_FrontRoom_Image.jpg" width="300px" height="150px" title="거실 배경"/>|
-||겸손-면죄 진행도(Progress_n)|<img src="./img/Progress_Image.png" width="300px" height="30px" title="겸손-면죄 진행도"/>|
-||속죄 수치(Progress_Atonement_Value)|<img src="./img/Progress_Image.png" width="300px" height="30px" title="속죄 수치"/>|
-||겸손-면죄 수치(Progress_n_Value)|<img src="./img/Progress_Image.png" width="300px" height="30px" title="겸손-면죄 수치"/>|
-||배경음(Sound_Background),<br>효과음(Sound_Effect)|<img src="./img/Sound_Image.png" width="300px" height="30px" title="사운드"/>|
+|1|시작하기(Button_start),<br>이어하기(Button_Working),<br>설정(Button_Setting),<br>종료하기(Button_Quit),<br>계속하기(Button_Continue),<br>저장하기(Button_Save),<br>불러오기(Slot_Import),<br>돌아가기(Button_Return)|<img src="./img/Button_Image.png" width="300px" height="200px" title="버튼 이미지"/>(예시)|
+|2|시작 배경(Background_Opening)|<img src="./img/Background_Opening_Image.jpg" width="300px" height="150px" title="시작 배경"/>|
+|3|복도 배경(Background_Aisle)|<img src="./img/Background_Aisle_Image.jpg" width="300px" height="150px" title="복도 배경"/>|
+|4|방 배경(Background_Room)|<img src="./img/Background_Room_Image.jpg" width="300px" height="150px" title="방 배경"/>|
+|5|거실 배경(Background_FrontRoom)|<img src="./img/Background_FrontRoom_Image.jpg" width="300px" height="150px" title="거실 배경"/>|
+|6|에디프(Character_Pride)|붉은 머리 남성|
+|7|디어(Character_Greed)|보라 머리 여성|
+|8|이브(Character_Envy) |담청 머리 여성|
+|9|타르(Character_Wrath)|주황 머리 남성|
+|10|이노(Character_Gluttony|노란 머리 여성|
+|11|터스(Character_Sloth)|감청 머리 남성|
+|12|대화창(Screen_Chat)|<img src="./img/Slot_Image.png" width="300px" height="100px" title="대화창"/>(예시)|
+|13|선택지(Button_Choice)|<img src="./img/Slot_Image.png" width="300px" height="50px" title="선택지"/>(예시)|
+|14|설정_2(Button_Setting_Image)|<img src="./img/Button_Setting_Image.png" width="50px" height="50px" title="거실 배경"/>|
+|15|날짜(Progress_Day)|<img src="./img/Background_FrontRoom_Image.jpg" width="300px" height="150px" title="설정_2"/>|
+|16|면죄부(Item_Indulgence)|<img src="./img/Item_Indulgence_Image.png" width="50px" height="50px" title="면죄부"/>|
+|17|저장된 슬롯(Slot_Saved),<br>빈 슬롯(Slot_None)|<img src="./img/Slot_Image.png" width="300px" height="70px" title="슬롯"/>(예시)|
+|18|속죄 진행도(Progress_Atonement)|<img src="./img/Background_FrontRoom_Image.jpg" width="300px" height="150px" title="거실 배경"/>|
+|19|겸손-면죄 진행도(Progress_n)|<img src="./img/Progress_Image.png" width="300px" height="30px" title="겸손-면죄 진행도"/>|
+|20|속죄 수치(Progress_Atonement_Value)|<img src="./img/Progress_Image.png" width="300px" height="30px" title="속죄 수치"/>|
+|21|겸손-면죄 수치(Progress_n_Value)|<img src="./img/Progress_Image.png" width="300px" height="30px" title="겸손-면죄 수치"/>|
+|22|배경음(Sound_Background),<br>효과음(Sound_Effect)|<img src="./img/Sound_Image.png" width="300px" height="30px" title="사운드"/>|
 
 <br>
 <br>
@@ -306,7 +307,7 @@
 
 <br>
 
-플레이어는 선택지를 고르며, 엔딩을 보길 원하는 캐릭터의 속죄 수치와, 그 캐릭터와 짝지어지는 본인의 속성 값과 면죄 수치를 증가시킨다. 하루가 끝날 때마다 원하는 인물의 방에 찾아가 그 인물의 속죄 수치를 증가시킬 수 있다. 플레이어의 면죄가 100을 달성하면 아이템 ‘면죄부’를 받게 된다. 마지막 날, 아이템의 죄악을 선택한 후 해당 캐릭터에게 사용하면 캐릭터의 속죄 수치와 플레이어의 특정 속성 수치에 따라 엔딩이 나온다. 캐릭터에게 알맞은 죄악의 면죄부를 주지 않거나, 면죄 100을 달성하지 못한다면 또다른 엔딩이 나오며, 이는 다른 수치에 상관없이 동일하다.
+플레이어는 선택지를 고르며, 엔딩을 보길 원하는 캐릭터의 속죄 수치와, 그 캐릭터와 짝지어지는 본인의 속성 값과 면죄 수치를 증가시킨다. 하루가 끝날 때마다 원하는 인물의 방에 찾아가 그 인물의 속죄 수치를 증가시킬 수 있다. 둘째 날부터 속죄 수치가 가장 낮은 등장인물이 죽으며, 6일째 되는 날까지 플레이어의 면죄가 100을 달성하면 아이템 ‘면죄부’를 받게 된다. 마지막 날, 아이템의 죄악을 선택한 후 해당 캐릭터에게 사용하면 캐릭터의 속죄 수치와 플레이어의 특정 속성 수치에 따라 엔딩이 나온다. 캐릭터에게 알맞은 죄악의 면죄부를 주지 않거나, 면죄 100을 달성하지 못한다면 또다른 엔딩이 나오며, 이는 다른 수치에 상관없이 동일하다.
 
 <br>
 <br>
@@ -358,6 +359,11 @@
 <!--게임화면_2-->
 - 선택지를 고르고 다음 스크립트가 나오면 화면의 왼쪽에 플레이어의 모든 수치들의 진행바가 나타났다가 1초간 증가 후 3초 후 사라진다.
 -  선택지를 고르고 다음 스크립트가 나오면 해당 인물의 면죄 수치 진행바가 나타났다가 1초간 증가 후 3초 후 사라진다.
+
+<!--속성화면-->
+속성화면
+- 화면의 왼쪽엔 플레이어의 속성과 수치가 진행바와 숫자로 존재한다.
+- 화면의 오른쪽엔 캐릭터의 초상화와 속죄의 진행도, 속죄의 수치가 존재한다. 사망한 인물의 경우 초상화가 흑백으로 나타난다.
 
 
 
