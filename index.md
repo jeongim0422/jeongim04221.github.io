@@ -19,7 +19,8 @@
 - c.[ 상태](#상태)
 - d.[ 플레이어 캐릭터 속성(파라미터)](#속성)
 - e.[ 게임의 규칙](#규칙)
-### [8. 개발 요구사항](#개발-요구사항)
+### [8. 개발 요구사항과 흐름도](#개발-요구사항과-흐름도)
+### [9. 스토리 보드](#스토리-보드)
 
 <br>
 <br>
@@ -249,13 +250,14 @@
 |13|선택지(Button_Choice)|<img src="./img/Slot_Image.png" width="300px" height="50px" title="선택지"/>(예시)|
 |14|설정_2(Button_Setting_Image)|<img src="./img/Button_Setting_Image.png" width="50px" height="50px" title="거실 배경"/>|
 |15|날짜(Progress_Day)|<img src="./img/Background_FrontRoom_Image.jpg" width="300px" height="150px" title="설정_2"/>|
-|16|면죄부(Item_Indulgence)|<img src="./img/Item_Indulgence_Image.png" width="50px" height="50px" title="면죄부"/>|
-|17|저장된 슬롯(Slot_Saved),<br>빈 슬롯(Slot_None)|<img src="./img/Slot_Image.png" width="300px" height="70px" title="슬롯"/>(예시)|
-|18|속죄 진행도(Progress_Atonement)|<img src="./img/Background_FrontRoom_Image.jpg" width="300px" height="150px" title="거실 배경"/>|
-|19|겸손-면죄 진행도(Progress_n)|<img src="./img/Progress_Image.png" width="300px" height="30px" title="겸손-면죄 진행도"/>|
-|20|속죄 수치(Progress_Atonement_Value)|<img src="./img/Progress_Image.png" width="300px" height="30px" title="속죄 수치"/>|
-|21|겸손-면죄 수치(Progress_n_Value)|<img src="./img/Progress_Image.png" width="300px" height="30px" title="겸손-면죄 수치"/>|
-|22|배경음(Sound_Background),<br>효과음(Sound_Effect)|<img src="./img/Sound_Image.png" width="300px" height="30px" title="사운드"/>|
+|16|쪽지(Item_Note)|<img src="./img/Item_Note_Image.png" width="50px" height="50px" title="쪽지"/>|
+|17|면죄부(Item_Indulgence)|<img src="./img/Item_Indulgence_Image.png" width="50px" height="50px" title="면죄부"/>|
+|18|저장된 슬롯(Slot_Saved),<br>빈 슬롯(Slot_None)|<img src="./img/Slot_Image.png" width="300px" height="70px" title="슬롯"/>(예시)|
+|19|속죄 진행도(Progress_Atonement)|<img src="./img/Background_FrontRoom_Image.jpg" width="300px" height="150px" title="거실 배경"/>|
+|21|겸손-면죄 진행도(Progress_n)|<img src="./img/Progress_Image.png" width="300px" height="30px" title="겸손-면죄 진행도"/>|
+|22|속죄 수치(Progress_Atonement_Value)|<img src="./img/Progress_Image.png" width="300px" height="30px" title="속죄 수치"/>|
+|23|겸손-면죄 수치(Progress_n_Value)|<img src="./img/Progress_Image.png" width="300px" height="30px" title="겸손-면죄 수치"/>|
+|24|배경음(Sound_Background),<br>효과음(Sound_Effect)|<img src="./img/Sound_Image.png" width="300px" height="30px" title="사운드"/>|
 
 <br>
 <br>
@@ -314,7 +316,7 @@
 <br>
 
 
-# **[개발 요구사항]**
+# **[개발 요구사항과 흐름도]**
 
 <br>
 
@@ -365,7 +367,27 @@
 - 화면의 왼쪽엔 플레이어의 속성과 수치가 진행바와 숫자로 존재한다.
 - 화면의 오른쪽엔 캐릭터의 초상화와 속죄의 진행도, 속죄의 수치가 존재한다. 사망한 인물의 경우 초상화가 흑백으로 나타난다.
 
+<br>
+<br>
 
+## **2. 흐름도**
+
+<br>
+
+<img src="./img/FlowChart_Image.png" width="500px" height="300px" title="스토리 보드"/>
+
+<br>
+<br>
+
+## **3. 용어 정리**
+
+<br>
+<br>
+<br>
+
+# **스토리 보드**
+
+<img src="./img/StoryBoard_Image.png" width="500px" height="400px" title="스토리 보드"/>
 
 
 
