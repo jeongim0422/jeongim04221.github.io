@@ -378,7 +378,7 @@
 
 <br>
 
-<img src="./img/FlowChart_Image.png" width="500px" height="300px" title="스토리 보드"/>
+<img src="./img/FlowChart_Image.png" width="500px" height="300px" title="흐름도"/>
 
 <br>
 <br>
@@ -386,7 +386,7 @@
 
 # **스토리 보드**
 
-<img src="./img/StoryBoard_Image.png" width="500px" height="400px" title="스토리 보드"/>
+<img src="./img/StoryBoard_Image.png" width="600px" height="400px" title="스토리 보드"/>
 
 
 
