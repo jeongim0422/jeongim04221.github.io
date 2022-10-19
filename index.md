@@ -210,7 +210,7 @@
 
 [음향]
 
-게임에서 인물들이 대화할 때, 갈등이 시작될 때, 주인공이 어떤 선택을 내릴 때. 이에 수긍하거나 부정할 때마다 상황에 맞는 배경 음악이 재생되거나 사라진다. 인물의 감정 표현이나 행동에 따라 1~3초 내외의 짧은 효과음이 재생된다. 플레이어가 선택지나 배경 화면, UI의 버튼을 클릭할 때마다 클릭 여부를 알 수 있도록 짧고 작은 효과음을 삽입한다.
+게임에서 인물들이 대화할 때, 갈등이 시작될 때, 주인공이 어떤 선택을 내릴 때. 이에 수긍하거나 부정할 때마다 상황에 맞는 배경 음악이 재생되거나 사라진다. 인물의 감정 표현이나 행동에 따라 1~3초 내외의 짧은 효과음이 재생된다. 플레이어가 선택지나 배경 화면, UI의 버튼을 클릭할 때마다 클릭 여부를 알 수 있도록 짧은 효과음을 삽입한다.
 
 <br>
 <br>
@@ -234,27 +234,27 @@
 
 |연번|오브젝트 이름(영문이름)|오브젝트 이미지|
 |:----:|:----:|:----:|
-||시작하기(Button_start),<br>이어하기(Button_Working),<br>설정(Button_Setting),<br>종료하기(Button_Quit),<br>계속하기(Button_Continue),<br>저장하기(Button_Save),<br>불러오기(Slot_Import),<br>돌아가기(Button_Return)|(./img/Button_Image.png)|
-||시작 배경(Background_Opening)|(./img/Background_Opening_Image.jpg)|
-||복도 배경(Background_Aisle)|(./img/Background_Aisle_Image.jpg)|
-||방 배경(Background_Room)|(./img/Background_Room_Image.jpg)|
-||거실 배경(Background_FrontRoom)|(./img/Background_FrontRoom_Image.jpg)|
+||시작하기(Button_start),<br>이어하기(Button_Working),<br>설정(Button_Setting),<br>종료하기(Button_Quit),<br>계속하기(Button_Continue),<br>저장하기(Button_Save),<br>불러오기(Slot_Import),<br>돌아가기(Button_Return)|<img src="./img/Button_Image.png" width="300px" height="200px" title="버튼 이미지"/>|
+||시작 배경(Background_Opening)|<img src="./img/Background_Opening_Image.jpg" width="300px" height="150px" title="시작 배경"/>|
+||복도 배경(Background_Aisle)|<img src="./img/Background_Aisle_Image.jpg" width="300px" height="150px" title="복도 배경"/>|
+||방 배경(Background_Room)|<img src="./img/Background_Room_Image.jpg" width="300px" height="150px" title="방 배경"/>|
+||거실 배경(Background_FrontRoom)|<img src="./img/Background_FrontRoom_Image.jpg" width="300px" height="150px" title="거실 배경"/>|
 ||에디프(Character_Pride)|붉은 머리 남성|
 ||디어(Character_Greed)|보라 머리 여성|
 ||이브(Character_Envy) |담청 머리 여성|
 ||타르(Character_Wrath)|주황 머리 남성|
 ||이노(Character_Gluttony|노란 머리 여성|
 ||터스(Character_Sloth)|감청 머리 남성|
-||대화창(Screen_Chat)|(./img/Slot_Image.png)|
-||선택지(Button_Choice)|(./img/Slot_Image.png)|
-||설정_2(Button_Setting_Image)|(./img/Button_Setting_Image.png)|
-||날짜(Progress_Day)|(./img/Progress_Day_Image.png)|
-||저장된 슬롯(Slot_Saved),<br>빈 슬롯(Slot_None)|(./img/Slot_Image.png)|
-||속죄 진행도(Progress_Atonement)|(./img/Progress_Image.png)|
-||겸손-면죄 진행도(Progress_n)|(./img/Progress_Image.png)|
-||속죄 수치(Progress_Atonement_Value)|(./img/Progress_Image.png)|
-||겸손-면죄 수치(Progress_n_Value)|(./img/Progress_Image.png)|
-||배경음(Sound_Background),<br>효과음(Sound_Effect)|(./img/Sound_Image.png)|
+||대화창(Screen_Chat)|<img src="./img/Slot_Image.png" width="300px" height="100px" title="대화창"/>(예시)|
+||선택지(Button_Choice)|<img src="./img/Slot_Image.png" width="300px" height="50px" title="선택지"/>(예시)|
+||설정_2(Button_Setting_Image)|<img src="./img/Button_Setting_Image.png" width="50px" height="50px" title="거실 배경"/>(예시)|
+||날짜(Progress_Day)|<img src="./img/Background_FrontRoom_Image.jpg" width="300px" height="150px" title="설정_2"/>|
+||저장된 슬롯(Slot_Saved),<br>빈 슬롯(Slot_None)|<img src="./img/Slot_Image.png" width="300px" height="70px" title="슬롯"/>(예시)|
+||속죄 진행도(Progress_Atonement)|<img src="./img/Background_FrontRoom_Image.jpg" width="300px" height="150px" title="거실 배경"/>|
+||겸손-면죄 진행도(Progress_n)|<img src="./img/Progress_Image.png" width="300px" height="30px" title="겸손-면죄 진행도"/>|
+||속죄 수치(Progress_Atonement_Value)|<img src="./img/Progress_Image.png" width="300px" height="30px" title="속죄 수치"/>|
+||겸손-면죄 수치(Progress_n_Value)|<img src="./img/Progress_Image.png" width="300px" height="30px" title="겸손-면죄 수치"/>|
+||배경음(Sound_Background),<br>효과음(Sound_Effect)|<img src="./img/Sound_Image.png" width="300px" height="30px" title="사운드"/>|
 
 <br>
 <br>
@@ -265,14 +265,8 @@
 
 |속성|영문명칭|설명|비고|
 |:----:|:----:|:----:|:----:|
-|속죄|Progress_Atonement_Value|각 캐릭터의 속죄 수치. 선택지에 따라 1~10까지 랜덤으로 값이 누적됨. 최대 값 100이 되면 이후 변화 없음.||
-|겸손|Progress_Pride_Value|플레이어의 수치. 선택지를 고를 때마다 해당하는 2개의 속성 수치가 각각 1~10, 1~5씩 증가함. 최대 값 100이 되면 이후 변화 없음.||
-|자선|Progress_Greed_Value|플레이어의 수치. 선택지를 고를 때마다 해당하는 2개의 속성 수치가 각각 1~10, 1~5씩 증가함. 최대 값 100이 되면 이후 변화 없음.||
-|친절|Progress_Envy_Value|플레이어의 수치. 선택지를 고를 때마다 해당하는 2개의 속성 수치가 각각 1~10, 1~5씩 증가함. 최대 값 100이 되면 이후 변화 없음.||
-|인내|Progress_Wrath_Value|플레이어의 수치. 선택지를 고를 때마다 해당하는 2개의 속성 수치가 각각 1~10, 1~5씩 증가함. 최대 값 100이 되면 이후 변화 없음.||
-|절제|Progress_Gluttony_Value|플레이어의 수치. 선택지를 고를 때마다 해당하는 2개의 속성 수치가 각각 1~10, 1~5씩 증가함. 최대 값 100이 되면 이후 변화 없음.||
-|근면|Progress_Sloth_Value|플레이어의 수치. 선택지를 고를 때마다 해당하는 2개의 속성 수치가 각각 1~10, 1~5씩 증가함. 최대 값 100이 되면 이후 변화 없음.||
-|면죄|Progress_Absolution_Value|플레이어의 수치. 선택지를 고를 때마다 증가함. 최대 값 100이 되면 이후 변화 없음.||
+|속죄|Progress_Atonement_Value|각 캐릭터의 속죄 수치이다. 선택지에 따라 1~10까지 랜덤으로 값이 누적된다. 최대 값 100이 되면 이후 값이 고정된다.||
+
 
 <br>
 <br>
@@ -283,10 +277,10 @@
 
 |현상태|전이상태|전이조건|
 |:----:|:----:|:----:|
-|정상 상태||아무 조건도 만족하지 못했을 때 기본으로 적용되도록 함.|
-|정상 상태|분노 상태|스크립트에 !가 2개 이하일 때 해당 스크립트의 다음 스크립트까지 적용됨.|
-|정 상상태|걱정 상태|스크립트에 … 가 2개 이상일 때 해당 스크립트의 다음 스크립트까지 적용됨.|
-|정상 상태|놀란 상태|스크립트에 !가 3개 이상일 때 해당 스크립트의 다음 스크립트까지 적용됨.|
+|정상 상태||아무 조건도 만족하지 못했을 때 기본으로 적용되도록 한다.|
+|정상 상태|분노 상태|스크립트에 !가 2개 이상일 때 해당 스크립트의 다음 스크립트까지 적용된다.|
+|정 상상태|걱정 상태|스크립트에 … 가 2개 이상일 때 해당 스크립트의 다음 스크립트까지 적용된다.|
+|정상 상태|놀란 상태|스크립트에 !가 2개 이하일 때 해당 스크립트의 다음 스크립트까지 적용된다.|
 
 <br>
 <br>
@@ -297,14 +291,13 @@
 
 |속성|영문명칭|설명|비고|
 |:----:|:----:|:----:|:----:|
-|겸손|Progress_Pride|값 0을 할당받음. 이후 선택지를 고를 때마다 경우에 따라 1~10 또는 1~5까지 랜덤으로 값이 누적됨. 다른 경우에는 10의 값이 누적됨. 최대 값 100이 되면 이후 변화없음.||
-|자선|Progress_Greed|값 0을 할당받음. 이후 선택지를 고를 때마다 경우에 따라 1~10 또는 1~5까지 랜덤으로 값이 누적됨. 다른 경우에는 10의 값이 누적됨. 최대 값 100이 되면 이후 변화없음.||
-|친절|Progress_Envy|값 0을 할당받음. 이후 선택지를 고를 때마다 경우에 따라 1~10 또는 1~5까지 랜덤으로 값이 누적됨. 다른 경우에는 10의 값이 누적됨. 최대 값 100이 되면 이후 변화없음.||
-|인내|Progress_Wrath|값 0을 할당받음. 이후 선택지를 고를 때마다 경우에 따라 1~10 또는 1~5까지 랜덤으로 값이 누적됨. 다른 경우에는 10의 값이 누적됨. 최대 값 100이 되면 이후 변화없음.||
-|절제|Progress_Gluttony|값 0을 할당받음. 이후 선택지를 고를 때마다 경우에 따라 1~10 또는 1~5까지 랜덤으로 값이 누적됨. 다른 경우에는 10의 값이 누적됨. 최대 값 100이 되면 이후 변화없음.||
-|근면|Progress_Sloth|값 0을 할당받음. 이후 선택지를 고를 때마다 경우에 따라 1~10 또는 1~5까지 랜덤으로 값이 누적됨. 다른 경우에는 10의 값이 누적됨. 최대 값 100이 되면 이후 변화없음.||
-|면죄|Progress_Absolution|값 0을 할당받음. 이후 선택지를 고를 때마다 경우에 따라 1~10까지 증가함. 최대 값 100이 되면 이후 변화
-없음.||
+|겸손|Progress_Pride|값 0을 할당받는다. 이후 선택지를 고를 때마다 해당하는 2개의 속성 수치가 1~10, 1~5씩 증가하며 값이 누적된다. 다른 경우에는 10의 값이 누적된다. 최대 값 100이 되면 이후 값이 고정된다.||
+|자선|Progress_Greed|값 0을 할당받는다. 이후 선택지를 고를 때마다 해당하는 2개의 속성 수치가 1~10, 1~5씩 증가하며 값이 누적된다. 다른 경우에는 10의 값이 누적된다. 최대 값 100이 되면 이후 값이 고정된다.||
+|친절|Progress_Envy|값 0을 할당받는다. 이후 선택지를 고를 때마다 해당하는 2개의 속성 수치가 1~10, 1~5씩 증가하며 값이 누적된다. 다른 경우에는 10의 값이 누적된다. 최대 값 100이 되면 이후 값이 고정된다.||
+|인내|Progress_Wrath|값 0을 할당받는다. 이후 선택지를 고를 때마다 해당하는 2개의 속성 수치가 1~10, 1~5씩 증가하며 값이 누적된다. 다른 경우에는 10의 값이 누적된다. 최대 값 100이 되면 이후 값이 고정된다.||
+|절제|Progress_Gluttony|값 0을 할당받는다. 이후 선택지를 고를 때마다 해당하는 2개의 속성 수치가 1~10, 1~5씩 증가하며 값이 누적된다. 다른 경우에는 10의 값이 누적된다. 최대 값 100이 되면 이후 값이 고정된다.||
+|근면|Progress_Sloth|값 0을 할당받는다. 이후 선택지를 고를 때마다 해당하는 2개의 속성 수치가 1~10, 1~5씩 증가하며 값이 누적된다. 다른 경우에는 10의 값이 누적된다. 최대 값 100이 되면 이후 값이 고정된다.||
+|면죄|Progress_Absolution|값 0을 할당받는다. 이후 선택지를 고를 때마다 1~10씩 증가한다. 최대 값 100이 되면 이후 값이 고정된다.||
 
 <br>
 <br>
@@ -313,7 +306,7 @@
 
 <br>
 
-플레이어는 선택지를 고르며, 엔딩을 보길 원하는 캐릭터의 속죄 수치와, 그 캐릭터와 짝지어지는 본인의 속성 값과 면죄 수치를 증가시킴. 하루가 끝날 때마다 원하는 인물의 방에 찾아가 그 인물의 속죄 수치를 증가시킬 수 있음. 플레이어의 면죄가 100을 달성하면 아이템 ‘면죄부’를 받게 됨. 마지막 날, 아이템을 캐릭터에게 사용하면 캐릭터의 속죄 수치와 플레이어의 특정 속성 수치에 따라 엔딩이 나옴. 면죄 100을 달성하지 못한다면. 또다른 엔딩이 나오며, 이는 다른 수치에 상관없이 동일함.
+플레이어는 선택지를 고르며, 엔딩을 보길 원하는 캐릭터의 속죄 수치와, 그 캐릭터와 짝지어지는 본인의 속성 값과 면죄 수치를 증가시킨다. 하루가 끝날 때마다 원하는 인물의 방에 찾아가 그 인물의 속죄 수치를 증가시킬 수 있다. 플레이어의 면죄가 100을 달성하면 아이템 ‘면죄부’를 받게 된다. 마지막 날, 아이템의 죄악을 선택한 후 해당 캐릭터에게 사용하면 캐릭터의 속죄 수치와 플레이어의 특정 속성 수치에 따라 엔딩이 나온다. 캐릭터에게 알맞은 죄악의 면죄부를 주지 않거나, 면죄 100을 달성하지 못한다면 또다른 엔딩이 나오며, 이는 다른 수치에 상관없이 동일하다.
 
 <br>
 <br>
