@@ -249,8 +249,8 @@
 |12|대화창(Screen_Chat)|<img src="./img/Slot_Image.png" width="300px" height="100px" title="대화창"/>(예시)|
 |13|선택지(Button_Choice)|<img src="./img/Slot_Image.png" width="300px" height="50px" title="선택지"/>(예시)|
 |14|설정_2(Button_Setting_Image)|<img src="./img/Button_Setting_Image.png" width="50px" height="50px" title="거실 배경"/>|
-|15|날짜(Progress_Day)|<img src="./img/Background_FrontRoom_Image.jpg" width="300px" height="150px" title="설정_2"/>|
-|16|쪽지(Item_Note)|<img src="./img/Item_Note_Image.png" width="50px" height="50px" title="쪽지"/>|
+|15|날짜(Progress_Day)|<img src="./img/Progress_Day_Image.png" width="100px" height="70px" title="설정_2"/>|
+|16|쪽지(Item_Note)|<img src="./img/Item_Note_Image.png" width="150px" height="200px" title="쪽지"/>|
 |17|면죄부(Item_Indulgence)|<img src="./img/Item_Indulgence_Image.png" width="50px" height="50px" title="면죄부"/>|
 |18|저장된 슬롯(Slot_Saved),<br>빈 슬롯(Slot_None)|<img src="./img/Slot_Image.png" width="300px" height="70px" title="슬롯"/>(예시)|
 |19|속죄 진행도(Progress_Atonement)|<img src="./img/Background_FrontRoom_Image.jpg" width="300px" height="150px" title="거실 배경"/>|
