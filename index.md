@@ -250,12 +250,12 @@
 |3|복도 배경(Background_Aisle)|<img src="./img/Background_Aisle_Image.jpg" width="300px" height="150px" title="복도 배경"/>|
 |4|방 배경(Background_Room)|<img src="./img/Background_Room_Image.jpg" width="300px" height="150px" title="방 배경"/>|
 |5|거실 배경(Background_FrontRoom)|<img src="./img/Background_FrontRoom_Image.jpg" width="300px" height="150px" title="거실 배경"/>|
-|6|에디프(Character_Pride)|<img src="./img/Character_Pride_Image.jpg" width="150px" height="200px" title="붉은 머리 남성"/> 붉은 머리 남성|
-|7|디어(Character_Greed)|<img src="./img/Character_Greed_Image" width="150px" height="200px" title="보라 머리 여성"/> 보라 머리 여성|
-|8|이브(Character_Envy) |<img src="./img/Character_Envy_Image.jpg" width="150px" height="200px" title="담청 머리 여성"/> 담청 머리 여성|
-|9|타르(Character_Wrath)|<img src="./img/Character_Wrath_Image.jpg" width="150px" height="200px" title="주황 머리 남성"/> 주황 머리 남성|
-|10|이노(Character_Gluttony)|<img src="./img/Character_Gluttony_Image.jpg" width="150px" height="200px" title="노란 머리 여성"/> 노란 머리 여성|
-|11|터스(Character_Sloth)|<img src="./img/Character_Sloth_Image.jpg" width="150px" height="200px" title="감청 머리 남성"/> 감청 머리 남성|
+|6|에디프(Character_Pride)|<img src="./img/Character_Pride_Image.jpg" width="150px" height="200px" title="붉은 머리 남성"/> 붉은 머리 남성 (예시)|
+|7|디어(Character_Greed)|<img src="./img/Character_Greed_Image.jpg" width="150px" height="200px" title="보라 머리 여성"/> 보라 머리 여성 (예시)|
+|8|이브(Character_Envy) |<img src="./img/Character_Envy_Image.jpg" width="150px" height="200px" title="담청 머리 여성"/> 담청 머리 여성 (예시)|
+|9|타르(Character_Wrath)|<img src="./img/Character_Wrath_Image.jpg" width="150px" height="200px" title="주황 머리 남성"/> 주황 머리 남성 (예시)|
+|10|이노(Character_Gluttony)|<img src="./img/Character_Gluttony_Image.jpg" width="150px" height="200px" title="노란 머리 여성"/> 노란 머리 여성 (예시)|
+|11|터스(Character_Sloth)|<img src="./img/Character_Sloth_Image.jpg" width="150px" height="200px" title="감청 머리 남성"/> 감청 머리 남성 (예시)|
 |12|대화창(Screen_Chat)|<img src="./img/Slot_Image.png" width="300px" height="100px" title="대화창"/>(예시)|
 |13|선택지(Button_Choice)|<img src="./img/Slot_Image.png" width="300px" height="50px" title="선택지"/>(예시)|
 |14|설정_2(Button_Setting_Image)|<img src="./img/Button_Setting_Image.png" width="50px" height="50px" title="설정_2"/>|
