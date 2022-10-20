@@ -246,10 +246,10 @@
 |연번|오브젝트 이름(영문이름)|오브젝트 이미지|
 |:----:|:----:|:----:|
 |1|시작하기(Button_start),<br>이어하기(Button_Working),<br>설정(Button_Setting),<br>종료하기(Button_Quit),<br>계속하기(Button_Continue),<br>저장하기(Button_Save),<br>불러오기(Slot_Import),<br>돌아가기(Button_Return)|<img src="./img/Button_Image.png" width="300px" height="200px" title="버튼 이미지"/>(예시)|
-|2|시작 배경(Background_Opening)|<img src="./img/Background_Opening_Image.jpg" width="300px" height="150px" title="시작 배경"/>|
-|3|복도 배경(Background_Aisle)|<img src="./img/Background_Aisle_Image.jpg" width="300px" height="150px" title="복도 배경"/>|
-|4|방 배경(Background_Room)|<img src="./img/Background_Room_Image.jpg" width="300px" height="150px" title="방 배경"/>|
-|5|거실 배경(Background_FrontRoom)|<img src="./img/Background_FrontRoom_Image.jpg" width="300px" height="150px" title="거실 배경"/>|
+|2|시작 배경(Background_Opening)|<img src="./img/Background_Opening_Image.jpg" width="500px" height="250px" title="시작 배경"/>|
+|3|복도 배경(Background_Aisle)|<img src="./img/Background_Aisle_Image.jpg" width="500px" height="250px" title="복도 배경"/>|
+|4|방 배경(Background_Room)|<img src="./img/Background_Room_Image.jpg" width="500px" height="250px" title="방 배경"/>|
+|5|거실 배경(Background_FrontRoom)|<img src="./img/Background_FrontRoom_Image.jpg" width="500px" height="250px" title="거실 배경"/>|
 |6|에디프(Character_Pride)|<img src="./img/Character_Pride_Image.jpg" width="150px" height="200px" title="붉은 머리 남성"/> 붉은 머리 남성 (예시)|
 |7|디어(Character_Greed)|<img src="./img/Character_Greed_Image.jpg" width="150px" height="200px" title="보라 머리 여성"/> 보라 머리 여성 (예시)|
 |8|이브(Character_Envy) |<img src="./img/Character_Envy_Image.jpg" width="150px" height="200px" title="파란 머리 여성"/> 파란 머리 여성 (예시)|
