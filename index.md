@@ -511,8 +511,8 @@
 - 비어있는 게임 화면을  제작한 후 설정을 누르면 설정 화면으로 이동하도록 한다.
 - 종료하기와 ESC를 누르면 게임이 종료되도록 한다.
 
-<img src="./img/convert.gif" width="300px" height="300px" 
-./img/quit.gif
+<img width="80%" src="https://user-images.githubusercontent.com/74513631/199627555-9cd6fff0-3a7f-4d6d-a988-5c21ea0e6036.gif"/>
+<img width="80%" src="https://user-images.githubusercontent.com/74513631/199627682-485623cd-5e10-4c92-9aea-64a04b758727.gif"/>
 
 <br>
 
@@ -531,7 +531,8 @@
 - 대사가 다 나온 후 6초가 지나면 자동으로 스크립트가 넘어간다. (0%)
 - ~~ESC를 누르면 설정 화면이 뜬다. (100%)~~
 
-./img/week2.
+./img/week2.gif
+
 
 <br>
 
@@ -544,6 +545,8 @@
 5) 대화창 오른쪽 화살표를 클릭하면 대사가 전부 뜬다.
 6) 대사가 다 나온 상태에서 아무 액션 없이 6초가 지나면 스크립트가 자동으로 넘어간다.
 7) ESC를 누르면 설정 화면이 뜬다.
+
+<img width="80%" src="https://user-images.githubusercontent.com/74513631/199627772-18b87833-77b0-46f6-b41c-7a4cf4f883da.gif"/>
 
 
 
