@@ -511,7 +511,7 @@
 - 비어있는 게임 화면을  제작한 후 설정을 누르면 설정 화면으로 이동하도록 한다.
 - 종료하기와 ESC를 누르면 게임이 종료되도록 한다.
 
-./img/convert.gif
+<img src="./img/convert.gif" width="300px" height="300px" 
 ./img/quit.gif
 
 <br>
