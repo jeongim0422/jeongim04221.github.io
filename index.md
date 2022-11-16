@@ -621,9 +621,9 @@
 - 돌아가기 버튼을 제작하고 이를 클릭하면 스탯 화면이 종료되고 게임 화면으로 되돌아가도록 한다.
 - ESC를 누르면 스탯 화면이 종료되고 게임 화면으로 되돌아가도록 한다.
 
+<br>
 
-
-
+<img width="80%" src="https://https://user-images.githubusercontent.com/74513631/202308417-7b8f340b-cd74-46c2-a77b-4820fa0b5efa.gif"/>
 
 
 
