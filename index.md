@@ -428,12 +428,10 @@
 <img src="./img/Dev_Schedule.png" width="600px" height="400px" title="개발 작업 일정"/>
 
 
+<br>
+<br>
+
 # [프로토타입 개발 요구사항 (6주 개발)]
-
-<br>
-<br>
-
-### **[주차별 개발 현황]*
 
 <br>
 
@@ -465,7 +463,6 @@
 
 <br>
 
-
 ### 4주차 - 스탯 화면 일부 구현
 
 - 화면의 왼쪽에, 플레이어 속성의 진행도가 진행바와 숫자로 나타난다.
@@ -493,12 +490,7 @@
 <br>
 <br>
 
-
-
-
-
-
-# **[프로토타입 개발작업 일정 (6주개발)]**
+# **[주차별 개발 현황]**
 
 ### **구현 1주차 <a name = '1주차'></a>**
 
@@ -623,7 +615,7 @@
 
 <br>
 
-<img width="80%" src="https://https://user-images.githubusercontent.com/74513631/202308417-7b8f340b-cd74-46c2-a77b-4820fa0b5efa.gif"/>
+<img width="80%" src="https://user-images.githubusercontent.com/74513631/202308417-7b8f340b-cd74-46c2-a77b-4820fa0b5efa.gif"/>
 
 
 
