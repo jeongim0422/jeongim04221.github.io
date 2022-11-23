@@ -652,11 +652,13 @@
 <br>
 
 <img width="80%" src="https://user-images.githubusercontent.com/74513631/203656178-6507d86c-79e0-4c7f-b8a2-c89df91eebf2.gif"/>
+<br>
 ▲ 속성과 인물 구현
 
 <br>
 
 <img width="80%" src="https://user-images.githubusercontent.com/74513631/203656720-baa4871f-25f8-49b2-9786-b5cb4e363692.gif"/>
+<br>
 ▲ 설정 구현
 
 <br>
